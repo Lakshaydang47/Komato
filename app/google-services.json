@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994828462981",
+    "project_id": "komato-47",
+    "storage_bucket": "komato-47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994828462981:android:61752b8163684fed0c32ec",
+        "android_client_info": {
+          "package_name": "com.devdroid.komato"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCetleiwCd4luREQIZEJyuQAjeQFCzJcLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
