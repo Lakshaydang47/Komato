@@ -95,7 +95,7 @@ fun DiningSearchBar (navController: NavController) {
                 innerTextField()
             }
         )
-        Spacer(modifier = Modifier.width (8.dp)) // Space between text field and icon
+        Spacer(modifier = Modifier.width(98.dp)) // Space between text field and icon
         Icon(
             painter = painterResource(R.drawable.mic),
             contentDescription = "Voice Search",
